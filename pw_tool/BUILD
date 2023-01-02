@@ -1,30 +1,3 @@
-# Copyright 2021 The Pigweed Authors
-#
-# Licensed under the Apache License, Version 2.0 (the "License"); you may not
-# use this file except in compliance with the License. You may obtain a copy of
-# the License at
-#
-#     https://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-# WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-# License for the specific language governing permissions and limitations under
-# the License.
-
-load(
-    "//pw_build:pigweed.bzl",
-    "pw_cc_binary",
-)
-
-licenses(["notice"])  # Apache License 2.0
-
-pw_cc_binary(
-    name = "pw_tool",
-    srcs = [ "main.cc" ],
-    deps = [
-        "//pw_log",
-        "//pw_polyfill",
-    ]
-)
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:440ca84238fa18faab5d0cd9416c9ac8d9f8b98dfa9b6e0414eceb95a32bb81f
+size 817

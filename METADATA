@@ -1,14 +1,3 @@
-name: "pigweed"
-description:
-    "Pigweed is an open source collection of embedded-targeted libraries. These "
-    "modules are building blocks and infrastructure that enable faster and more "
-    "reliable development on small-footprint MMU-less 32-bit microcontrollers."
-
-third_party {
-  url {
-    type: GIT
-    value: "https://pigweed.googlesource.com/pigweed/pigweed"
-  }
-  version: "e6d3a61088df772c71547801dd12cd48f57cec75"
-  last_upgrade_date { year: 2020 month: 8 day: 6 }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:db61a69e7ca75adb9ad6a06843db9b2fb0b7bdb6442eae6d1288d7c68ad78f3d
+size 483

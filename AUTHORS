@@ -1,7 +1,3 @@
-# This is the list of Pigweed authors for copyright purposes.
-#
-# This does not necessarily list everyone who has contributed code, since in
-# some cases, their employer may be the copyright holder.  To see the full list
-# of contributors, see the revision history in source control.
-
-Google LLC
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9abe11a4fd513437136ff80c4c7476cbc32d404471259ac759227fd7181ac23
+size 296

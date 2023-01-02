@@ -1,6 +1,3 @@
-# pw\_unit\_test: Lightweight C++ unit testing framework
-
-The pw\_unit\_test module contains the code for *Pigweed Test*, a
-[Googletest](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)-compatible
-unit testing framework that runs on anything from bare-metal microcontrollers
-to large desktop operating systems.
+version https://git-lfs.github.com/spec/v1
+oid sha256:518bd9b6e063188ea52548f9ff88c4234d0f8c13e8cb30a7883a293c270729c6
+size 338
